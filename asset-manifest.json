@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tk-isad/static/css/main.e1f2bb6b.css",
-    "main.js": "/tk-isad/static/js/main.e984d75d.js",
+    "main.js": "/tk-isad/static/js/main.e30d39d7.js",
     "static/js/243.8165a273.chunk.js": "/tk-isad/static/js/243.8165a273.chunk.js",
     "static/js/180.b0133700.chunk.js": "/tk-isad/static/js/180.b0133700.chunk.js",
     "static/js/357.8178e5b4.chunk.js": "/tk-isad/static/js/357.8178e5b4.chunk.js",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.e1f2bb6b.css",
-    "static/js/main.e984d75d.js"
+    "static/js/main.e30d39d7.js"
   ]
 }
