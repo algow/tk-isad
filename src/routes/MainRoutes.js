@@ -41,10 +41,10 @@ const MainRoutes = {
       path: 'rekam-medis',
       element: <RekamMedis />
     },
-    {
-      path: '/',
-      element: <Pegawai />
-    },
+    // {
+    //   path: '/',
+    //   element: <Pegawai />
+    // },
     {
       path: 'color',
       element: <Color />

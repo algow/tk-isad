@@ -15,10 +15,10 @@ const LoginRoutes = {
   path: '/',
   element: <MinimalLayout />,
   children: [
-    // {
-    //   path: '/',
-    //   element: <LandingPage />
-    // },
+    {
+      path: '/',
+      element: <LandingPage />
+    },
     {
       path: 'home',
       element: <LandingPage />
