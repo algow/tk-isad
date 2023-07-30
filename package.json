@@ -2,7 +2,7 @@
   "name": "maharani",
   "version": "1.1.2",
   "private": true,
-  "homepage": "https://gitname.github.io/tk-isad",
+  "homepage": "https://github.io/tk-isad",
   "dependencies": {
     "@ant-design/colors": "^6.0.0",
     "@ant-design/icons": "^4.7.0",
