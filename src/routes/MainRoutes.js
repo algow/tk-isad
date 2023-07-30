@@ -44,7 +44,7 @@ const MainRoutes = {
     },
     {
       path: '/',
-      element: <LandingPage />
+      element: <Pegawai />
     },
     {
       path: 'color',
