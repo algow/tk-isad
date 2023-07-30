@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/tk-isad/static/css/main.e1f2bb6b.css",
-    "main.js": "/tk-isad/static/js/main.22537002.js",
-    "static/js/243.8165a273.chunk.js": "/tk-isad/static/js/243.8165a273.chunk.js",
-    "static/js/180.b0133700.chunk.js": "/tk-isad/static/js/180.b0133700.chunk.js",
+    "main.js": "/tk-isad/static/js/main.95da212c.js",
+    "static/js/243.83b50c85.chunk.js": "/tk-isad/static/js/243.83b50c85.chunk.js",
+    "static/js/180.d26866d0.chunk.js": "/tk-isad/static/js/180.d26866d0.chunk.js",
     "static/js/357.8178e5b4.chunk.js": "/tk-isad/static/js/357.8178e5b4.chunk.js",
     "static/js/525.40648d6e.chunk.js": "/tk-isad/static/js/525.40648d6e.chunk.js",
     "static/js/893.db1c3864.chunk.js": "/tk-isad/static/js/893.db1c3864.chunk.js",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.e1f2bb6b.css",
-    "static/js/main.22537002.js"
+    "static/js/main.95da212c.js"
   ]
 }
