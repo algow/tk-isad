@@ -6,7 +6,6 @@ import MainLayout from 'layout/MainLayout';
 import Pegawai from 'pages/main/Pegawai';
 import Pasien from 'pages/main/Pasien';
 import RekamMedis from 'pages/main/RekamMedis';
-import LandingPage from 'pages/landing-page/LandingPage';
 
 // render - dashboard
 const DashboardDefault = Loadable(lazy(() => import('pages/dashboard')));
